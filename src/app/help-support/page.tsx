@@ -43,8 +43,7 @@ const faqs = [
 
 const developers = [
     { name: 'Mahyudeen Shahid', role: 'Developer & Team Lead', icon: Code },
-    { name: 'Shahzaib Javeed', role: 'Documentation', icon: FileText },
-    { name: 'Syeda Hania Zahra', role: 'Presentation & Documentation', icon: Presentation },
+    { name: 'Muhammad Sajid', role: 'Co-developer', icon: Code },
     { name: 'Zubair Ghaffar', role: 'Co-developer', icon: Code },
 ];
 
